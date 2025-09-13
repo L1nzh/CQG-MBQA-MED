@@ -1,0 +1,16 @@
+temp/
+output/
+__pycache__/
+data/
+results_mteb/
+results/
+results_mteb_bot/
+results_mteb_cqg/
+results_mteb_qaemb/
+# mteb/
+
+# Large model checkpoints (use Git LFS or download separately)
+checkpoints/**/*.pt
+
+# Sensitive documentation (contains credentials)
+docs/github_credentials.md
