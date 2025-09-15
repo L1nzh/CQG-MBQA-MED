@@ -1,0 +1,8 @@
+Model,CUREv1,R2MEDIIYiClinicalRetrieval,R2MEDPMCClinicalRetrieval,CmedqaRetrieval,Average
+abhinand/MedEmbed-base-v0.1,0.51544,0.12515,0.15568,0.02205,0.2046
+ncbi/MedCPT-Query-Encoder,0.26019,0.06088,0.08043,0.00655,0.102
+microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract,0.11676,0.05555,0.06185,0.00254,0.0592
+michiyasunaga/BioLinkBERT-large,0.12328,0.07059,0.06186,0.00059,0.0641
+medicalai/ClinicalBERT,0.06399,0.0709,0.05222,0.05141,0.0596
+emilyalsentzer/Bio_ClinicalBERT,0.07397,0.054,0.02933,0.00211,0.0399
+UFNLP/gatortron-base,0.15388,0.09988,0.11381,0.00182,0.0923

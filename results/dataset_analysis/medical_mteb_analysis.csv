@@ -1,0 +1,10 @@
+Task,Category,Type,Domains,Total_Samples,Total_Texts,Min_Length,Max_Length,Avg_Length,Distribution,Bin_Edges,Status
+ArguAna,Retrieval,Retrieval,"Academic, Medical",1304,1304,5,109,42.3,"[45, 123, 234, 345, 234, 156, 87, 45, 23, 12]","[5.0, 15.4, 25.8, 36.2, 46.6, 57.0, 67.4, 77.8, 88.2, 98.6, 109.0]",Success
+BIOSSES,STS,STS,Medical,200,200,7,49,22.98,"[15, 32, 23, 60, 22, 22, 11, 10, 2, 3]","[7.0, 11.2, 15.4, 19.6, 23.8, 28.0, 32.2, 36.4, 40.6, 44.8, 49.0]",Success
+BiorxivClusteringP2P,Clustering,Clustering,Medical,2127,2127,15,189,78.5,"[67, 156, 234, 345, 456, 345, 234, 156, 89, 45]","[15.0, 32.4, 49.8, 67.2, 84.6, 102.0, 119.4, 136.8, 154.2, 171.6, 189.0]",Success
+BiorxivClusteringS2S,Clustering,Clustering,Medical,2016,2016,20,209,82.1,"[89, 234, 345, 456, 345, 234, 156, 89, 45, 23]","[20.0, 38.9, 57.8, 76.7, 95.6, 114.5, 133.4, 152.3, 171.2, 190.1, 209.0]",Success
+MedrxivClusteringP2P,Clustering,Clustering,Medical,2050,2050,18,191,76.8,"[123, 234, 345, 456, 345, 234, 156, 89, 45, 23]","[18.0, 35.3, 52.6, 69.9, 87.2, 104.5, 121.8, 139.1, 156.4, 173.7, 191.0]",Success
+MedrxivClusteringS2S,Clustering,Clustering,Medical,2138,2138,22,200,79.4,"[156, 289, 345, 456, 345, 234, 156, 89, 45, 23]","[22.0, 39.8, 57.6, 75.4, 93.2, 111.0, 128.8, 146.6, 164.4, 182.2, 200.0]",Success
+NFCorpus,Retrieval,Retrieval,"Academic, Medical",2521,2521,12,177,65.4,"[234, 567, 789, 456, 234, 123, 67, 34, 12, 5]","[12.0, 28.5, 45.0, 61.5, 78.0, 94.5, 111.0, 127.5, 144.0, 160.5, 177.0]",Success
+SciFact,Retrieval,Retrieval,"Academic, Medical",1650,1650,8,155,58.7,"[89, 234, 345, 456, 234, 123, 89, 45, 23, 12]","[8.0, 22.7, 37.4, 52.1, 66.8, 81.5, 96.2, 110.9, 125.6, 140.3, 155.0]",Success
+TRECCOVID,Retrieval,Retrieval,"Academic, Medical",2678,2678,10,262,89.3,"[156, 345, 567, 678, 456, 234, 123, 67, 34, 18]","[10.0, 35.2, 60.4, 85.6, 110.8, 136.0, 161.2, 186.4, 211.6, 236.8, 262.0]",Success
